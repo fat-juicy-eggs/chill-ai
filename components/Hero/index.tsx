@@ -22,7 +22,7 @@ const Hero = () => {
                 Computational Heat Island Localization & Limitation (or a group of high school students committed to a cause)
               </p>
               <a href="#"
-                <button aria-label="get started button" className="flex rounded-full bg-black px-7.5 py-2.5 text-white duration-300 ease-in-out hover:bg-blackho dark:bg-btndark dark:hover:bg-blackho">
+                <button className="flex rounded-full bg-black px-7.5 py-2.5 text-white duration-300 ease-in-out hover:bg-blackho dark:bg-btndark dark:hover:bg-blackho">
                   Vote for us!
                 </button>
               </a>
