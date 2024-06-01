@@ -21,6 +21,7 @@ const Hero = () => {
               <p className="text-dark font-bold text-2xl">
                 Computational Heat Island Localization + Limitation
               </p>
+              <h4>Cooler cities, brighter futures</h4>
 
               <div className="mt-10">
                 <a href="#">
