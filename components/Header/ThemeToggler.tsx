@@ -1,4 +1,4 @@
-import { useTheme } from "next-themes";
+/*import { useTheme } from "next-themes";
 import Image from "next/image";
 
 const ThemeToggler = () => {
@@ -30,3 +30,4 @@ const ThemeToggler = () => {
 };
 
 export default ThemeToggler;
+*/
