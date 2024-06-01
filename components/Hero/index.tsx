@@ -35,7 +35,7 @@ const Hero = () => {
 
             <div className="animate_right hidden md:w-2/3 lg:block">
               <div className="relative 2xl:-mr-7.5">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=UGO-1F29Tj6Icqpl" title="YouTube video player" frameBorder="0" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=UGO-1F29Tj6Icqpl" title="YouTube video player" frameBorder="0" allowFullScreen></iframe>
               </div>
             </div>
           </div>
