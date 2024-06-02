@@ -60,6 +60,44 @@ const Intro = () => {
                 Drastically increases health risks from high temperatures and air pollution
               </li>
             </ul>
+            <br></br><br></br>
+          </motion.div>
+          <motion.div
+            variants={{
+              hidden: {
+                opacity: 0,
+                y: -20,
+              },
+
+              visible: {
+                opacity: 1,
+                y: 0,
+              },
+            }}
+            initial="hidden"
+            whileInView="visible"
+            transition={{ duration: 1, delay: 0.1 }}
+            viewport={{ once: true }}
+            className="animate_top rounded-lg bg-white px-7.5 pt-7.5 shadow-solid-8 dark:border dark:border-strokedark dark:bg-black xl:px-15 xl:pt-15"
+          >
+            <h2 className="mb-5 text-center text-3xl font-semibold text-black dark:text-white xl:text-sectiontitle2">
+              CHILL AI
+            </h2>
+            <p className="mb-2 text-dark font-bold">
+              What do we do about them?
+            </p>
+            <ul className="list-disc ml-10 font-medium text-dark mb-5">
+              <li>
+                Using satellite thermal imagery and available weather data
+              </li>
+              <li>
+                Generate maps to track and identify urban heat islands
+              </li>
+              <li>
+                Governments and urban planners can create cooler, healthier, and sustainable environments
+              </li>
+            </ul>
+            <br></br><br></br>
           </motion.div>
         </div>
       </section>
