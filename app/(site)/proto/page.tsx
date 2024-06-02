@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import Feature from "@/components/Features";
+import About from "@/components/About";
 
 export const metadata: Metadata = {
   title: "Prototype",
@@ -10,7 +10,7 @@ export default function Prototype() {
   return (
     <>
       <section>
-        <Feature />
+        <About />
       </section>
     </>
   );
