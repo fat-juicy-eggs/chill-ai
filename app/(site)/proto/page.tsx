@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import Feature from "@/component/Features";
+import Feature from "@/components/Features";
 
 export const metadata: Metadata = {
   title: "Prototype",
