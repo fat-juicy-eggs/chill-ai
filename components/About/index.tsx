@@ -6,6 +6,9 @@ import Image from "next/image";
 const About = () => {
   return (
     <>
+      <section>
+        <div style="height: 100px"></div>
+      </section>
       {/* <!-- ===== About Start ===== --> */}
       <section className="overflow-hidden pb-20 lg:pb-25 xl:pb-30">
         <div className="mx-auto max-w-c-1235 px-4 md:px-8 xl:px-0">
