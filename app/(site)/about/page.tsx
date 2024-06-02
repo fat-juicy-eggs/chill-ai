@@ -1,4 +1,3 @@
-"use client";
 import { Metadata } from "next";
 import { motion } from "framer-motion";
 import Image from "next/image";
