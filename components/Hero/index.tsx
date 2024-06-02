@@ -27,7 +27,7 @@ const Hero = () => {
                 <a href="#">
                 <button
                   aria-label="get started button"
-                  className="flex rounded-full bg-meetbutton px-7.5 py-2.5 text-white duration-300 ease-in-out hover:bg-black dark:bg-meetbutton dark:hover:bg-blackho">
+                  className="flex rounded-full bg-black px-7.5 py-2.5 text-white duration-300 ease-in-out hover:bg-black">
                   Vote for us!
                 </button>
                 </a>
