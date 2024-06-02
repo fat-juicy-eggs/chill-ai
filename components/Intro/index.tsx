@@ -67,4 +67,4 @@ const Intro = () => {
   );
 };
 
-export default Signup;
+export default Intro;
