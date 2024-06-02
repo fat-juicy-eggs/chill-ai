@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import Intro from "@/components/intro";
+import Intro from "@/components/Intro";
 import React from "react";
 
 export const metadata: Metadata = {
