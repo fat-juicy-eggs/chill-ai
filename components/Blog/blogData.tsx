@@ -4,42 +4,42 @@ const BlogData: Blog[] = [
   {
     _id: 1,
     mainImage: "/images/blog/blog-01.png",
-    title: "Free advertising for your online business",
+    title: "Brendon Wu",
     metadata:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
+      "The man, the myth, the legend.",
   },
   {
     _id: 2,
     mainImage: "/images/blog/blog-02.png",
-    title: "9 simple ways to improve your design skills",
+    title: "Justin Lam",
     metadata:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
+      '"I was just a business man, doing business"',
   },
   {
     _id: 2,
     mainImage: "/images/blog/blog-03.png",
-    title: "Tips to quickly improve your coding speed.",
+    title: "Charlotte Zhou",
     metadata:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
+      "Video person",
   },
   {
     _id: 1,
     mainImage: "/images/blog/blog-03.png",
-    title: "Free advertising for your online business",
+    title: "Aarav Mittal",
     metadata:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
+      "Supreme leader, second to none",
   },
   {
     _id: 2,
     mainImage: "/images/blog/blog-04.png",
-    title: "9 simple ways to improve your design skills",
+    title: "Daniel Yi",
     metadata:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
+      "Fumbling along",
   },
   {
     _id: 2,
     mainImage: "/images/blog/blog-01.png",
-    title: "Tips to quickly improve your coding speed.",
+    title: "Jason Lu",
     metadata:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
   },
