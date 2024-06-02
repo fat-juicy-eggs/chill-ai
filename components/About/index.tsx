@@ -34,12 +34,6 @@ const About = () => {
                 className="dark:hidden"
                 fill
               />
-              <Image
-                src="/images/about/about-dark-01.png"
-                alt="About"
-                className="hidden dark:block"
-                fill
-              />
             </motion.div>
             <motion.div
               variants={{
