@@ -1,8 +1,8 @@
 import { Metadata } from "next";
 import Intro from "@/components/Intro";
 import Blog from "@/components/Blog";
-import BlogData from "@/components/Blog-board/blogData";
-import BlogItem from "@/components/Blog-board/BlogItem";
+import BlogData from "@/components/Blog/blogData";
+import BlogItem from "@/components/Blog/BlogItem";
 import React from "react";
 
 export const metadata: Metadata = {
