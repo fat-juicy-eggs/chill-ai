@@ -9,10 +9,10 @@ export const metadata: Metadata = {
 
 export default function Home() {
   return (
-    <section className="pb-16 pt-24 md:pb-20 md:pt-28 lg:pb-24 lg:pt-32">
-      <div className="container mx-auto">
-        <div className="-mx-4 flex flex-wrap">
-          <div className="blog-details blog-details-docs shadow-three dark:bg-gray-dark rounded-sm bg-white px-8 py-11 sm:p-[55px] lg:mb-5 lg:px-8 xl:p-[55px]">
+    <section id="support" className="px-4 md:px-8 2xl:px-0">
+      <div className="relative mx-auto max-w-c-1390 px-7.5 pt-10 lg:px-15 lg:pt-15 xl:px-20 xl:pt-20">
+        <div className="absolute left-0 top-0 -z-1 h-2/3 w-full rounded-lg bg-gradient-to-t from-transparent to-[#dee7ff47] dark:bg-gradient-to-t dark:to-[#252A42]"></div>
+          <div className="absolute bottom-[-255px] left-0 -z-1 h-full w-full">
             <h1 id="0">Our product</h1>
             <p>
               Cooler cities, brighter futures.
