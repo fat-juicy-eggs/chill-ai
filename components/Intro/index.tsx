@@ -97,6 +97,20 @@ const Intro = () => {
                 Governments and urban planners can create cooler, healthier, and sustainable environments
               </li>
             </ul>
+            <p className="mb-2 text-dark font-bold">
+              Technologies used:
+            </p>
+            <ul className="list-disc ml-10 font-medium text-dark mb-5">
+              <li>
+                Computer Vision techniques for analysis
+              </li>
+              <li>
+                Data Retrieval from satellites and mobile data
+              </li>
+              <li>
+                Machine Learning models for tracking and identification
+              </li>
+            </ul>
             <br></br><br></br>
           </motion.div>
         </div>
