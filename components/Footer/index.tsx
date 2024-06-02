@@ -282,7 +282,7 @@ const Footer = () => {
             >
               <ul className="flex items-center gap-5">
                 <li>
-                  <a href="https://www.instagram.com/tutoco_/" aria-label="social icon" target="_blank">
+                  <a href="https://www.instagram.com/" aria-label="social icon" target="_blank">
                     <svg
                       className="fill-[#757693] transition-all duration-300 hover:fill-primary"
                       width="24"
