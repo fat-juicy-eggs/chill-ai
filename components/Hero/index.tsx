@@ -16,14 +16,11 @@ const Hero = () => {
           <div className="flex lg:items-center lg:gap-8 xl:gap-32.5">
             <div className=" md:w-1/2">
               <h1 className="mb-5 pr-16 text-3xl font-bold text-black dark:text-white xl:text-hero">
-                CHILL AI
+                Computational Heat Island Localization + Limitation
               </h1>
               <p className="text-dark font-bold text-2xl">
-                Computational Heat Island Localization + Limitation
+                Cooler cities, brighter futures
               </p>
-              <br></br>
-              <h4>Cooler cities, brighter futures</h4>
-
               <div className="mt-10">
                 <a href="#">
                 <button
@@ -34,7 +31,6 @@ const Hero = () => {
                 </a>
               </div>
             </div>
-
             <div className="animate_right hidden md:w-2/3 lg:block">
               <div className="relative 2xl:-mr-7.5">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=UGO-1F29Tj6Icqpl" title="YouTube video player" frameBorder="0" allowFullScreen></iframe>
