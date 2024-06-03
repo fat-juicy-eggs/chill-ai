@@ -93,6 +93,19 @@ const About = () => {
                   <p>consectetur adipiscing elit fermentum ultricies.</p>
                 </div>
               </div>
+              <div className="mt-7.5 flex items-center gap-5">
+                <div className="flex h-15 w-15 items-center justify-center rounded-[50%] border border-stroke dark:border-strokedark dark:bg-blacksection">
+                  <p className="text-metatitle2 font-semibold text-black dark:text-white">
+                    03
+                  </p>
+                </div>
+                <div className="w-3/4">
+                  <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
+                    React 18, Next.js 13 and TypeScript
+                  </h3>
+                  <p>Ut ultricies lacus non fermentum ultrices.</p>
+                </div>
+              </div>
             </motion.div>
           </div>
         </div>
