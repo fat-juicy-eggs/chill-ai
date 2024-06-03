@@ -6,7 +6,7 @@ import BlogItem from "@/components/Blog/BlogItem";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "About",
+  title: "Meet the Team",
   description: "Our team + ideas",
   // other metadata
 };
