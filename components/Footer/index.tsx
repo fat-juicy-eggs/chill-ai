@@ -30,15 +30,12 @@ const Footer = () => {
               >
                 <a href="/#" className="relative">
                   <Image
-                    width={110}
-                    height={80}
-                    src="/images/logo/logo.png"
+                    width={240}
+                    height={120}
+                    src="/images/logo/logo.svg"
                     alt="Logo"
                   />
                 </a>
-                <p className="mt-5 pr-16 text-7xl font-bold text-tutoco dark:text-white">
-                  CHILL AI
-                </p>
                 <p className="mb-10 mt-2.5 text-tutoco">
                   Cooler cities, brighter futures.
                 </p>
@@ -119,10 +116,10 @@ const Footer = () => {
                     </li>
                     <li>
                       <a
-                        href="/about"
+                        href="/team-members-expanded"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        About
+                        Meet the Team
                       </a>
                     </li>
                     <li>
