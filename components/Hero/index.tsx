@@ -15,12 +15,13 @@ const Hero = () => {
         <div className="mx-auto max-w-c-1390 px-4 md:px-8 2xl:px-0">
           <div className="flex lg:items-center lg:gap-8 xl:gap-32.5">
             <div className=" md:w-1/2">
-              <h1 className="mb-5 pr-16 text-7xl font-bold text-dark dark:text-white">
+              <h1 className="mb-5 pr-16 text-3xl font-bold text-black dark:text-white xl:text-hero">
                 CHILL AI
               </h1>
               <p className="text-dark font-bold text-2xl">
                 Computational Heat Island Localization + Limitation
               </p>
+              <br></br>
               <h4>Cooler cities, brighter futures</h4>
 
               <div className="mt-10">
