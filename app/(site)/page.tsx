@@ -1,5 +1,6 @@
 import { Metadata } from "next";
 import Hero from "@/components/Hero";
+import Intro from "@/components/Intro";
 
 export const metadata: Metadata = {
   title: "CHILL AI",
@@ -11,6 +12,7 @@ export default function Home() {
   return (
     <main>
       <Hero />
+      <Intro />
     </main>
   );
 }
