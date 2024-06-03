@@ -40,7 +40,7 @@ const Header = () => {
             <Image
               src="/images/logo/logo.svg"
               alt="logo"
-              width={120}
+              width={240}
               height={120}
             />
           </a>
