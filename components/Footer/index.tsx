@@ -221,7 +221,7 @@ const Footer = () => {
             >
               <ul className="flex items-center gap-8">
                 <li>
-                  <a href="#" className="hover:text-primary" target="_blank">
+                  <a href="https://app.moonshotpirates.com/vote/chill-ai" className="hover:text-primary" target="_blank">
                     Voting Link
                   </a>
                 </li>
