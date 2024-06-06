@@ -22,7 +22,7 @@ const Hero = () => {
                 Cooler cities, brighter futures
               </p>
               <div className="mt-10">
-                <a href="#">
+                <a href="https://app.moonshotpirates.com/vote/chill-ai">
                 <button
                   aria-label="get started button"
                   className="flex rounded-full bg-black px-7.5 py-2.5 text-white duration-300 ease-in-out hover:bg-black">
