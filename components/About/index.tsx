@@ -54,17 +54,13 @@ const About = () => {
               className="animate_right md:w-1/2"
             >
               <span className="font-medium uppercase text-black dark:text-white">
-                GIS Land Surface Temperature Map
+                Automation
               </span>
               <h2 className="relative mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
-                Data used for 
-                <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg dark:before:bg-titlebgdark">
-                  Computer Vision
-                </span>
+                Computer Vision
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                ultricies lacus non fermentum ultrices. Fusce consectetur le.
+               We use Computer Vision technology to identify urban heat islands. This completely automates the process 
               </p>
 
               <div className="mt-7.5 flex items-center gap-5">
@@ -75,9 +71,10 @@ const About = () => {
                 </div>
                 <div className="w-3/4">
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
-                    React 18, Next.js 13 and TypeScript
+                    Saves Time
                   </h3>
-                  <p>Ut ultricies lacus non fermentum ultrices.</p>
+                  <p>In the status quo, scientists and researchers around the world studying urban heat islands and their effects are identifying and indexing urban heat islands manually, 
+                  costing them countless of lost hours and leaving room for error. CHILL AI eliminates the need for this.</p>
                 </div>
               </div>
               <div className="mt-7.5 flex items-center gap-5">
@@ -88,9 +85,10 @@ const About = () => {
                 </div>
                 <div className="w-3/4">
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
-                    Fully Customizable
+                    Real-Time Tracking
                   </h3>
-                  <p>consectetur adipiscing elit fermentum ultricies.</p>
+                  <p>We're implementing the YOLOv8 Computer Vision model, which is known for its fast detection speeds and real-time capabilities. This allows any new information that is inputted
+                  to CHILL AI to be processed within seconds and allow a live overview of the state of urban heat islands to be seen.</p>
                 </div>
               </div>
               <div className="mt-7.5 flex items-center gap-5">
@@ -101,9 +99,11 @@ const About = () => {
                 </div>
                 <div className="w-3/4">
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
-                    React 18, Next.js 13 and TypeScript
+                    Objectivity
                   </h3>
-                  <p>Ut ultricies lacus non fermentum ultrices.</p>
+                  <p>Currently, there are no standardized, widely-used systems that can quantitatively measure the magnitude of urban heat islands. Since we're implementing an AI model,
+                  all insights are classified under the same weights and biases developed during the training process derived the training/validation/testing dataset. This means that classfications made
+                  for the severity and priority of action for urban heat islands are standardized, giving governments and organizations an objective overview of them.</p>
                 </div>
               </div>
             </motion.div>
@@ -135,35 +135,17 @@ const About = () => {
               className="animate_left md:w-1/2"
             >
               <h4 className="font-medium uppercase text-black dark:text-white">
-                Launch Your SaaS Fast
+                State-of-the-art Accuracy
               </h4>
               <h2 className="relative mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
-                Packed with All Essential {"   "}
-                <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg2 dark:before:bg-titlebgdark">
-                  Integrations
-                </span>
+                Performance Metrics
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                ultricies lacus non fermentum ultrices. Fusce consectetur le.
+               The model we're implementing, YOLOv8, is one of the most widely used and studied Computer Vision pre-training models. Thousands of different use cases have been applied for it, ranging from simple applications
+                for drawing bounding boxes around different types of bottles to highly complex applications such as scanning individuals for hidden firearms and detecting their specific make. Its accuracy and results
+                in completing these tasks have proven to reach accuracies of 95% and above as well, consistently.
               </p>
               <div>
-                <a
-                  href="#"
-                  className="group mt-7.5 inline-flex items-center gap-2.5 text-black hover:text-primary dark:text-white dark:hover:text-primary"
-                >
-                  <span className="duration-300 group-hover:pr-2">
-                    Know More
-                  </span>
-                  <svg
-                    width="14"
-                    height="14"
-                    viewBox="0 0 14 14"
-                    fill="currentColor"
-                  >
-                    <path d="M10.4767 6.16701L6.00668 1.69701L7.18501 0.518677L13.6667 7.00034L7.18501 13.482L6.00668 12.3037L10.4767 7.83368H0.333344V6.16701H10.4767Z" />
-                  </svg>
-                </a>
               </div>
             </motion.div>
             <motion.div
