@@ -101,8 +101,7 @@ const About = () => {
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
                     Objectivity
                   </h3>
-                  <p>Currently, there are no standardized, widely-used systems that can quantitatively measure the magnitude of urban heat islands. Since we're implementing an AI model,
-                  all insights are classified under the same weights and biases developed during the training process derived the training/validation/testing dataset. This means that classfications made
+                  <p>Currently, there are no standardized, widely-used systems that can quantitatively measure the magnitude of urban heat islands. However, through CHILL AI, all insights are classified under the same weights and biases developed during the training process derived the training/validation/testing dataset. This means that classfications made
                   for the severity and priority of action for urban heat islands are standardized, giving governments and organizations an objective overview of them.</p>
                 </div>
               </div>
