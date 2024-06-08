@@ -168,7 +168,6 @@ const About = () => {
               <Image
                 src="/images/1.jpg"
                 alt="About"
-                fill
               />
             </motion.div>
           </div>
