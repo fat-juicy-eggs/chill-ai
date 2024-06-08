@@ -6,7 +6,7 @@ const featuresTabData: FeatureTab[] = [
     title: "GIS Data",
     desc1: `Geographic Information Systems data will be sourced from government databases and organizations such as the US Geological Survey (USGS) and Esri.`,
     desc2: `     GIS platforms provide detailed spatial data on land use, infrastructure, and demographics. `,
-    image: "/images/features/2.png",
+    image: "/images/2.png",
     imageDark: "/images/features-dark-01.svg",
   },
   {
