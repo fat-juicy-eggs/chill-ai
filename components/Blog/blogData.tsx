@@ -23,13 +23,6 @@ const BlogData: Blog[] = [
       "Video person",
   },
   {
-    _id: 1,
-    mainImage: "/images/blog/blog-03.png",
-    title: "Aarav Mittal",
-    metadata:
-      "Supreme leader, second to none",
-  },
-  {
     _id: 2,
     mainImage: "/images/blog/danielyi.jpg",
     title: "Daniel Yi",
