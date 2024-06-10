@@ -10,14 +10,14 @@ const BlogData: Blog[] = [
   },
   {
     _id: 2,
-    mainImage: "/images/blog/justinlam.png",
+    mainImage: "/images/blog/justinlam.jpg",
     title: "Justin Lam",
     metadata:
       "Hi, I'm Justin and I'm a rising senior from Los Angeles, California. I am extremely passionate about business, mathematics, and physics. I’m part of my school’s Speech and Debate team, basketball team, FBLA team, and MESA club. In my free time, I love doing Khan Academy or sleeping.",
   },
   {
     _id: 2,
-    mainImage: "/images/blog/czhou.png",
+    mainImage: "/images/blog/czhou.jpg",
     title: "Charlotte Zhou",
     metadata:
       "Hi, I’m Charlotte! I’m a rising senior from San Jose, California passionate about data science, economics, and environmental science. I’m very involved in Model UN and am a hobby artist and photographer.",
