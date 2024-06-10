@@ -39,6 +39,24 @@ const Hero = () => {
           </div>
         </div>
       </section>
+      <section className="overflow-hidden pb-20 pt-35 md:pt-40 xl:pb-25 xl:pt-46">
+        <div className="mx-auto max-w-c-1390 px-4 md:px-8 2xl:px-0">
+          <div className="flex lg:items-center lg:gap-8 xl:gap-32.5">
+            <div className=" md:w-1/2">
+              <p className="text-dark font-bold text-3xl">
+                Our Business Plan
+              </p>
+            </div>
+            <div className="animate_right hidden md:w-2/3 lg:block">
+              <div className="relative 2xl:-mr-7.5">
+                <object width="400" height="500" type="application/pdf" data="https://0e894d7378904f25da001d4032d4c163.cdn.bubble.io/f1717472409050x638129927429342300/Business%20Plan.pdf">
+                  <p>Error: PDF could not load</p>
+                </object>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
     </>
   );
 };
