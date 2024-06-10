@@ -20,7 +20,7 @@ const BlogData: Blog[] = [
     mainImage: "/images/blog/czhou.png",
     title: "Charlotte Zhou",
     metadata:
-      "Video person",
+      "Hi, I’m Charlotte! I’m a rising senior from San Jose, California passionate about data science, economics, and environmental science. I’m very involved in Model UN and am a hobby artist and photographer.",
   },
   {
     _id: 2,
