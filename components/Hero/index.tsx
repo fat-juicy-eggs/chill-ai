@@ -45,7 +45,7 @@ const Hero = () => {
             <div className=" md:w-1/2">
               <p className="text-dark font-bold text-3xl">
                 
-                Business Plan
+                Business Plan<br></br>
               </p>
               <object width="650" height="500" type="application/pdf" data="https://0e894d7378904f25da001d4032d4c163.cdn.bubble.io/f1717472409050x638129927429342300/Business%20Plan.pdf">
                 <p>Error: PDF could not load</p>
@@ -55,7 +55,7 @@ const Hero = () => {
               <div className="relative 2xl:-mr-7.5">
                 <p className="text-dark font-bold text-3xl">
                 
-                  Technological Outline
+                  Technological Outline<br></br>
                 </p>
                 <object width="650" height="500" type="application/pdf" data="https://0e894d7378904f25da001d4032d4c163.cdn.bubble.io/f1717499503324x447015440935913900/Technological%20Outline.pdf">
                   <p>Error: PDF could not load</p>
